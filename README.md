@@ -1,9 +1,12 @@
 
+
 <h1>LA Crime Analysis (2020-2023)</h1>
      <p><a href="https://public.tableau.com/views/LACrime2020-2023/LACrime2020-2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View the Tableau Dashboard</a></p>
     <p>
         This project showcases an ETL process using Python to clean and prepare a dataset of crime incidents in Los Angeles from 2020 to 2023, followed by a visual analysis in Tableau. This project demonstrates data extraction, cleaning, and transformation, culminating in an interactive Tableau dashboard for insights into crime trends across different locations, times, and crime types.
     </p>
+    <img width="576" alt="LA Crime Area" src="https://github.com/user-attachments/assets/3051dcca-c294-4276-916a-85becc16fc3e">
+
     
 <h2>Project Overview</h2>
     <ul>
