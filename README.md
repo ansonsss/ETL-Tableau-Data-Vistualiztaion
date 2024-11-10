@@ -13,7 +13,7 @@
         <li><strong>Objective:</strong> Provide a comprehensive analysis of crime incidents in Los Angeles over the past few years.</li>
         <li><strong>Data Source:</strong> <a href="https://data.lacity.org/">Los Angeles Open Data portal</a></li>
         <li><strong>ETL Tool:</strong> Python</li>
-        <li><strong>Visualization Tool:</strong> Tableau (<a href="https://public.tableau.com/views/LACrime2020-2023/1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard Link</a>)</li>
+        <li><strong>Visualization Tool:</strong> Tableau (<a href="https://public.tableau.com/views/LACrime2020-2023/LACrime2020-2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Dashboard Link</a>)</li>
     </ul>
 
 <h2>ETL Process</h2>
