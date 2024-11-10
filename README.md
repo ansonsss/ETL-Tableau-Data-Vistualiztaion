@@ -1,6 +1,6 @@
 
 <h1>LA Crime Analysis (2020-2023)</h1>
-    <p><a href="https://public.tableau.com/views/LACrime2020-2023/1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau Dashboard</a></p>
+     <p><a href="https://public.tableau.com/views/LACrime2020-2023/LACrime2020-2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View the Tableau Dashboard</a></p>
     <p>
         This project showcases an ETL process using Python to clean and prepare a dataset of crime incidents in Los Angeles from 2020 to 2023, followed by a visual analysis in Tableau. This project demonstrates data extraction, cleaning, and transformation, culminating in an interactive Tableau dashboard for insights into crime trends across different locations, times, and crime types.
     </p>
@@ -28,8 +28,6 @@
         <li><strong>Data Loading:</strong> Save the cleaned and filtered dataset to a new CSV file, <code>LA Crime 2020-2023.csv</code>, which was used in the Tableau dashboard.</li>
     </ol>
 
-
-
 <h2>Tableau Visualization</h2>
     <p>The cleaned data was visualized using Tableau to uncover insights on:</p>
     <ul>
@@ -44,8 +42,9 @@
         <li><strong>Crime Distribution:</strong> Visual breakdown of various crime types and locations.</li>
         <li><strong>Time Series Analysis:</strong> Monthly and yearly trends to show fluctuations in crime activity over time.</li>
         <li><strong>Geographical Heatmap:</strong> Highlights areas with the highest frequency of crimes.</li>
+        <li><strong>Number Details:</strong> Detailed statistics on total crime incidents, most common crime types, and trends by area.</li>
     </ul>
-    <p><a href="https://public.tableau.com/views/LACrime2020-2023/1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View the Tableau Dashboard</a></p>
+    <p><a href="https://public.tableau.com/views/LACrime2020-2023/LACrime2020-2023?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">View the Tableau Dashboard</a></p>
 
 <h2>Project Files</h2>
     <ul>
@@ -55,6 +54,5 @@
 
 <h2>Conclusion</h2>
     <p>
-        This project illustrates a complete ETL process and data analysis workflow. The final dashboard allows stakeholders to make data-driven decisions by analyzing crime trends and areas of concern in Los Angeles.
+        This project illustrates a complete ETL process and data analysis workflow. The final dashboard allows stakeholders to make data-driven decisions by analyzing crime trends, area-specific crime distributions, and key numerical insights into LA’s crime data.
     </p>
-
