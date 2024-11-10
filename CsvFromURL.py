@@ -3,16 +3,13 @@ import pandas as pd
 
 class CsvFromURL:
     def __init__(self, url):
-        """
-        Initialize with a URL for the CSV file and set the display options for pandas.
+        # Initialize with a URL for the CSV file and set the display options for pandas.
         """
         self.url = url
         pd.set_option('display.max_columns', None)  # Set option to display all columns
 
     def load_data(self):
-        """
-        Load data from the URL into a pandas DataFrame.
-        """
+       # Load data from the URL into a pandas DataFrame.
         self.df = pd.read_csv(self.url)
         return self.df
 
